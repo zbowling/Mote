@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Mote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_connect">Connect</string>
+    <string name="title_activity_remote">Remote</string>
+
+</resources>
